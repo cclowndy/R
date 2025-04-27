@@ -1,0 +1,9 @@
+langchain
+# For youtobe 
+yt_dlp
+pydub
+# For PDF file
+pypdf 
+# DB
+Chroma
+# 
